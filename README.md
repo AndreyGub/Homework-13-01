@@ -58,9 +58,8 @@
 *Приведите ответ в свободной форме.*
 
 ## Ответ: 
-<img width="595" height="418" alt="image" src="https://github.com/user-attachments/assets/79fe8790-a43f-4a1a-a9a3-3a6beda65e4c" />
-<img width="710" height="546" alt="image" src="https://github.com/user-attachments/assets/c44f59d8-ce00-4e73-a7f8-2ad630e6e1ae" />
 1. SYN-сканирование
+<img width="710" height="546" alt="image" src="https://github.com/user-attachments/assets/c44f59d8-ce00-4e73-a7f8-2ad630e6e1ae" />
 
 2. FIN-сканирование
 <img width="685" height="525" alt="image" src="https://github.com/user-attachments/assets/4bdd5454-fd93-4971-ad00-ebcd820b6c70" />
