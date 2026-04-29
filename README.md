@@ -59,3 +59,15 @@
 
 ## Ответ: 
 <img width="595" height="418" alt="image" src="https://github.com/user-attachments/assets/79fe8790-a43f-4a1a-a9a3-3a6beda65e4c" />
+<img width="710" height="546" alt="image" src="https://github.com/user-attachments/assets/c44f59d8-ce00-4e73-a7f8-2ad630e6e1ae" />
+1. SYN-сканирование
+
+2. FIN-сканирование
+<img width="685" height="525" alt="image" src="https://github.com/user-attachments/assets/4bdd5454-fd93-4971-ad00-ebcd820b6c70" />
+
+3. Xmas-сканирование
+<img width="651" height="499" alt="image" src="https://github.com/user-attachments/assets/b47f65ec-ee3c-4e5c-86b2-a2ab116671da" />
+
+4. UDP-сканирование порты 53,69,123,161,137,138
+<img width="697" height="531" alt="image" src="https://github.com/user-attachments/assets/b097bc2e-cc14-47d0-8cbe-f29174954845" />
+
